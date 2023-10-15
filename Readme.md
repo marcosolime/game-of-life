@@ -2,7 +2,7 @@
 
 ![GosperGun](out/gosper_gun.gif)
 
-A single Gosper's glider gun 🔫
+A single Gosper's glider gun. (Where are you running to little gliders?)
 
 ## Description 🐜
 This is a simple implementation of The Game of Life in Python. In the notebook you can find the game description, logic, and a few simple examples. I also included basic functions that allow you to immediately experiment with common patterns, such as Blocks, Blinkers, Gliders and so on.
