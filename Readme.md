@@ -22,10 +22,10 @@ lwss((10,30), world)
 # Run the game loop for 200 epochs
 history = game_loop(200, w1)
 
-# Generate the animation (saved in out forder)
+# Generate the animation (saved in out folder)
 generate_animation(history, 'gosper_gun')
 ```
 
-## Thanks 
-Feel free to use, modify and expand the code to meet your needs. Have fun 😊
+## Thanks 😊
+Feel free to use, modify and expand the code to meet your needs. Have fun
 
