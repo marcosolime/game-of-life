@@ -9,7 +9,7 @@ This is a simple implementation of The Game of Life in Python. In the notebook y
 This is how you create an empty world, populate with simple patterns, run the game loop, and obtain the final animation in git format.
 
 <pre>
-```
+```python
 # Create empty grid of size 64 x 64
 w1 = get_empty_world(64,64)
 
