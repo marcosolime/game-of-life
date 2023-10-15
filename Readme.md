@@ -27,5 +27,5 @@ generate_animation(history, 'gosper_gun')
 ```
 
 ## Thanks 😊
-Feel free to use, modify and expand the code to meet your needs. Have fun
+Feel free to use, modify and expand the code to meet your needs. Have fun!
 
